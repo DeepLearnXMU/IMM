@@ -1,6 +1,6 @@
 # An Iterative Multi-Source Mutual Knowledge Transfer Frameworkfor Machine Reading Comprehension
 NOTES
-* The instructions below are still a work in progress.
+* The instructions below are still work in progress.
 * This project is modified on the basis of https://github.com/PaddlePaddle/models/tree/release/1.8/PaddleNLP/pretrain_language_models/BERT
 * The commands we list below do not include all optional arguments. 
 If you want to change some of the optional arguments such as converting model output directories, please change the settings in ```main_iter.sh``` and ```single_domain/multi_iter.sh```.
